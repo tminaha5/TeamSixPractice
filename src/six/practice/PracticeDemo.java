@@ -55,6 +55,9 @@ public class PracticeDemo {
 		
 		System.out.println("Does everyone like gitHub?");
 	}
+	public static void teamSix(String Hardwork) {
+		System.out.println("Thank you team six for your hard work");
+	}
 }
 
 

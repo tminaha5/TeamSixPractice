@@ -23,5 +23,10 @@ public class PracticeDemo {
 		System.out.println(s+k);
 		System.out.println("Added new commet");
 	}
+	
+	public static void getName(String name) {
+		name = "Amanda";
+		System.out.println(name);
+	}
 
 }

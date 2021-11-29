@@ -28,5 +28,10 @@ public class PracticeDemo {
 		name = "Amanda";
 		System.out.println(name);
 	}
+	public static void addNum(String apple, String Orange) {
+		System.out.println(apple+Orange);
+	}
+		
+	}
 
 }

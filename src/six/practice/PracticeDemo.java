@@ -19,5 +19,8 @@ public class PracticeDemo {
 		System.out.println(a + " + " + b + " = " + a+b);
 		
 	}
+	public static void addNum(int s, int k) {
+		System.out.println(s+k);
+	}
 
 }

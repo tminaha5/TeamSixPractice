@@ -36,6 +36,9 @@ public class PracticeDemo {
 		System.out.println(apple+Orange);
 		System.out.println("practice,paractice");
 	}
+	public static void getnumber(int a, int b) {
+		System.out.println( a + b);
+	}
 		
 	
 

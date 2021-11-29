@@ -48,6 +48,10 @@ public class PracticeDemo {
 		return age; 
 		
 	}
+	public static void groupSix(String name) {
+		
+		System.out.println("Does everyone like gitHub?");
+	}
 }
 
 

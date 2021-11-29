@@ -7,6 +7,8 @@ public class PracticeDemo {
 		
 		System.out.println("Homework Practice for Team 6");
 		System.out.println("Great job");
+		
+		System.out.println("Trying again");
 	}
 
 }

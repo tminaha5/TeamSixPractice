@@ -21,6 +21,7 @@ public class PracticeDemo {
 		System.out.println(a + " + " + b + " = " + a+b);
 		
 	}
+
 	public static void addNum(int s, int k) {
 		System.out.println(s+k);
 		System.out.println("Added new commet");
@@ -30,14 +31,23 @@ public class PracticeDemo {
 		name = "Amanda";
 		System.out.println(name);
 	}
+
 	public static void addNum(String apple, String Orange) {
 		System.out.println(apple+Orange);
+		System.out.println("practice,paractice");
 	}
 		
-	}
+	
+
 
 	public void getAge(int age) {
 		this.age = age;
 	}
-
+	
+	public int getAge() {
+		return age; 
+		
+	}
 }
+
+

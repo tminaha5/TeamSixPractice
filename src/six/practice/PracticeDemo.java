@@ -1,8 +1,10 @@
 package six.practice;
 
 public class PracticeDemo {
-	
-	public static void main(String [] args) {
+
+	private int age;
+
+	public static void main(String[] args) {
 		System.out.println("This is our second practice");
 		
 		System.out.println("Homework Practice for Team 6");
@@ -27,6 +29,10 @@ public class PracticeDemo {
 	public static void getName(String name) {
 		name = "Amanda";
 		System.out.println(name);
+	}
+
+	public void getAge(int age) {
+		this.age = age;
 	}
 
 }

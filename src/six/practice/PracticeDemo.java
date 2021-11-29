@@ -11,6 +11,8 @@ public class PracticeDemo {
 		System.out.println("Trying again");
 		
 		System.out.println("Saranya practice");
+		
+		sum(5,10);
 	}
 	
 	public static void sum(int a, int b) {

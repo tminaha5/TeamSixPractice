@@ -30,8 +30,9 @@ public class PracticeDemo {
 	}
 	public static void addNum(String apple, String Orange) {
 		System.out.println(apple+Orange);
+		System.out.println("practice,paractice");
 	}
 		
 	}
 
-}
+

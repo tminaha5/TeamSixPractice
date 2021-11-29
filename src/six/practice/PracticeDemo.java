@@ -21,6 +21,7 @@ public class PracticeDemo {
 	}
 	public static void addNum(int s, int k) {
 		System.out.println(s+k);
+		System.out.println("Added new commet");
 	}
 
 }
